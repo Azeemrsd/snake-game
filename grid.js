@@ -1,4 +1,4 @@
-const GRID_SIZE = 21;
+const GRID_SIZE = 31;
 
 export const randomGripPosition = () =>{
      return {
